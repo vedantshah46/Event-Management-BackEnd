@@ -1,0 +1,5 @@
+[
+  { "id": 1, "code": "OWNER", "name": "Owner", "isActive": true },
+  { "id": 2, "code": "STAFFING_MANAGER", "name": "Staffing Manager", "isActive": true },
+  { "id": 3, "code": "ATTENDANCE_MANAGER", "name": "Attendance Manager", "isActive": true }
+]

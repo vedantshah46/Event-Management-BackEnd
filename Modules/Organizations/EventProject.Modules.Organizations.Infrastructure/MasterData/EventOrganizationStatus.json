@@ -1,0 +1,6 @@
+[
+  { "EventOrganizationStatusId": 1, "EventOrganizationStatus": "Pending approval", "IsDeleted": false },
+  { "EventOrganizationStatusId": 2, "EventOrganizationStatus": "Approved", "IsDeleted": false },
+  { "EventOrganizationStatusId": 3, "EventOrganizationStatus": "Rejected", "IsDeleted": false },
+  { "EventOrganizationStatusId": 4, "EventOrganizationStatus": "Suspended", "IsDeleted": false }
+]

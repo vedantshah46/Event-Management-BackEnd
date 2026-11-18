@@ -1,0 +1,16 @@
+[
+  { "organizationRoleId": 1, "permissionCode": "organization.profile.read" },
+  { "organizationRoleId": 1, "permissionCode": "organization.staff.manage" },
+  { "organizationRoleId": 1, "permissionCode": "events.manage" },
+  { "organizationRoleId": 1, "permissionCode": "staffing.manage" },
+  { "organizationRoleId": 1, "permissionCode": "attendance.record" },
+  { "organizationRoleId": 1, "permissionCode": "attendance.approve" },
+  { "organizationRoleId": 1, "permissionCode": "finance.read" },
+  { "organizationRoleId": 1, "permissionCode": "organization.payment-details.manage" },
+  { "organizationRoleId": 2, "permissionCode": "organization.profile.read" },
+  { "organizationRoleId": 2, "permissionCode": "events.manage" },
+  { "organizationRoleId": 2, "permissionCode": "staffing.manage" },
+  { "organizationRoleId": 3, "permissionCode": "organization.profile.read" },
+  { "organizationRoleId": 3, "permissionCode": "attendance.record" },
+  { "organizationRoleId": 3, "permissionCode": "attendance.approve" }
+]

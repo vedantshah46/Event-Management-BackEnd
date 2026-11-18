@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <ProjectReference Include="..\EventProject.Modules.Events.Core\EventProject.Modules.Events.Core.csproj" />
+    <ProjectReference Include="..\..\Organizations\EventProject.Modules.Organizations.Core\EventProject.Modules.Organizations.Core.csproj" />
+    <ProjectReference Include="..\..\..\Shared\Shared.Infrastructure\Shared.Infrastructure.csproj" />
+    <EmbeddedResource Include="MasterData\*.json" />
+  </ItemGroup>
+</Project>
